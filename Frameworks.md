@@ -1,28 +1,35 @@
 # Frameworks
 
-* Risk
-   * NIST RMF
-   * SP 800-37, Revision 2, Risk Management Framework for Information Systems and Organizations
-   * ISO/IEC 27005
-   * OCTAVE
-   * FAIR
+## Risk
+
+### NIST RMF
+Incorporates the key elements of risk management; geared toward federal government entities.
+* SP 800-37, Revision 2, Risk Management Framework for Information Systems and Organizations
+* SP 800-39, Managing Information Security Risk
+* SP 800-30, Revision 1, Guide for Conducting Risk Assessments
    
-* Security Program
+### ISO/IEC 27005
+
+### OCTAVE
+
+### FAIR
+**********************************************************************   
+## Security Program
    * ISO/IEC 27000 series
    * NIST Cybersecurity Framework
    
-* Security Controls
+## Security Controls
    * NIST SP 800-53
    * CIS Contols
    * COBIT 2019
    
-* Enterprise Architecture
+## Enterprise Architecture
    * Zachman Framework
    * TOGAF
    * DoDAF
    * SABSA
-
-* Other
+   
+## Other
    * Information Technology Infrastructure Library (ITIL)
       * Standard for IT service management to meet business needs.
    * Six Sigma
