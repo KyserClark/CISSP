@@ -5,4 +5,4 @@ My CISSP Notes. This is not everything that the CISSP exam covers, these notes a
 ##Credits
 
 * All-in-One CISSP Exam Guide Ninth Editioin by Fernando Maymi and Shon Harris
-* kaplanlearn.com (CyberVista)
+* https://kaplanlearn.com (CyberVista)
