@@ -80,7 +80,7 @@ Voluntary
 **********************************************************************
 ## Enterprise Architecture
 
-###Zachman Framework
+### Zachman Framework
 ### TOGAF
 ### DoDAF
 ### SABSA
