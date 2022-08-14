@@ -20,7 +20,7 @@
 * [Other](#other)
    * [ITIL](#itil)
    * [Six Sigma](#six-sigma)
-   * [Capability Maturity Model (CMM)](#capability-maturity-model-(cmm))
+   * [Capability Maturity Model](#capability-maturity-model)
 
 **********************************************************************   
 ## Risk
@@ -94,8 +94,8 @@ Information Technology Infrastructure Library (ITIL); Standard for IT service ma
 ### Six Sigma
 Improve process quality by using statistical methods of measuring operation efficiency and reducing variation, defects, and waste.  
  
-### Capability Maturity Model (CMM)
-Structured steps that can be followed so an organization can evolve from one level to the next and constantly improve its processes and security posture.
+### Capability Maturity Model
+(CMM) Structured steps that can be followed so an organization can evolve from one level to the next and constantly improve its processes and security posture.
 
 ********************************************************************** 
 ## Reference
