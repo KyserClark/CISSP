@@ -73,7 +73,7 @@ Voluntary
 
 ### NIST SP 800-53
 
-### CIS Contols
+### CIS Controls
 
 ### COBIT 2019
 
