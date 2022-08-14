@@ -95,10 +95,9 @@ Information Technology Infrastructure Library (ITIL); Standard for IT service ma
 Improve process quality by using statistical methods of measuring operation efficiency and reducing variation, defects, and waste.  
  
 ### Capability Maturity Model
-(CMM) Structured steps that can be followed so an organization can evolve from one level to the next and constantly improve its processes and security posture.
+(CMM): Structured steps that can be followed so an organization can evolve from one level to the next and constantly improve its processes and security posture.
 
 ********************************************************************** 
 ## Reference
 * All-in-One CISSP Exam Guide Ninth Edition by Fernando Maymi and Shon Harris
-   * Pages 172-173
-   * Pages 196-197
+   * Pages 172-197
