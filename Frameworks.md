@@ -10,7 +10,7 @@
    * [NIST Cybersecurity Framework](#nist-cybersecurity-framework)
 * [Security Controls](#security-controls)
    * [NIST SP 800-53](#nist-sp-800-53)
-   * [CIS Contols](#cis-controls)
+   * [CIS Controls](#cis-controls)
    * [COBIT 2019](#cobit-2019)
 * [Enterprise Architecture](#enterprise-architecture)
    * [Zachman Framework](#zachman-framework)
