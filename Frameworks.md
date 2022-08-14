@@ -66,24 +66,50 @@ Industry best practices for the management of security controls in a holistic ma
 *Exam tip: Do NOT have to memorize the entire ISO/IEC 27000 series of standards.*
 
 ### NIST Cybersecurity Framework
-Voluntary 
+Voluntary framework for critical infrastucture organizations; three main components:
+* Framework Core
+   * Identify
+   * Protect
+   * Respond
+   * Recover 
+* Implementation Tiers
+* Framework Profile
 
 ********************************************************************** 
 ## Security Controls
 
 ### NIST SP 800-53
+Security and Privacy Controls for Information Systems and Organizations; Made for compliance with Federal Information Processing Standards (FIPS).
+* 1. Select the appropriate security control baselines.
+* 2. Tailor the baselines.
+* 3. Document the security control selection process.
+* 4. Apply the controls
 
 ### CIS Controls
+Center for Internet Security (CIS); alist of 20 critical security controls designed to mitigate the threat of the majority of common cyberattacks.
 
 ### COBIT 2019
+Control Objectives for Information Technologies (COBIT); helps organizations optimize the value of their IT by balancing resource utilization, risk levels, and realization of benefits. This is all done by explicitly tying stakeholder drivers to stakeholder needs to organizational goals (to meet those needs) to IT goals (to meet or support the organizational goals).
 
 **********************************************************************
 ## Enterprise Architecture
 
 ### Zachman Framework
+A two-dimensional model that uses six basic communication interrogatives (What, How, Where, Who, When, and Why) intersecting with different perspectives (Executives, Business Managers, System Architects, Engineers, Technicians, and Enterprise-wide) to give a holistic understanding of the enterprise. 
+
 ### TOGAF
+The Open Group Architecture Framework (TOGAF); provides an approach to design, implement, and govern an enterprise information architecture.
+* Business architecture
+* Data architecture
+* Applications architecture
+* Technology architecture
+
 ### DoDAF
+Department of Defense Architecture Framework (DoDAF); an architecture that has to span many different complex government agencies to allow for interoperability and proper hierarchical communication channels.
+
 ### SABSA
+Sherwood Applied Business Security Architecture (SABSA); a layered framework, with its first layer describing the business context within which the security architecture must exist. Each layer of the framework decreases in abstraction and increases in detail, so it builds upon the others and moves from policy to practical implementation of technology and solutions. The idea is to provide a chain of traceability through the contextual, conceptual, logical, physical, component, and operational levels.
+
    
 **********************************************************************   
 ## Other
@@ -100,4 +126,5 @@ Improve process quality by using statistical methods of measuring operation effi
 ********************************************************************** 
 ## Reference
 * All-in-One CISSP Exam Guide Ninth Edition by Fernando Maymi and Shon Harris
+   * Page 14
    * Pages 172-197
