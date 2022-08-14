@@ -2,11 +2,11 @@
 
 * [Risk](#risk)
    * [NIST Risk Management Framework](#nist-risk-management-framework)
-   * [ISO/IEC 27005](#iso/iec-27005)
+   * [ISO-IEC 27005](#iso-iec-27005)
    * [OCTAVE](#octave)
    * [FAIR](#fair)
 * [Security Programs](#security-programs)
-   * [ISO/IEC 27000 Series](#iso/iec-27000-series)
+   * [ISO-IEC 27000 Series](#iso-iec-27000-series)
    * [NIST Cybersecurity Framework](#nist-cybersecurity-framework)
 * [Security Controls](#security-controls)
    * [NIST SP 800-53](#nist-sp-800-53)
@@ -31,7 +31,7 @@ Incorporates the key elements of risk management; geared toward federal governme
 * SP 800-39, Managing Information Security Risk
 * SP 800-30, Revision 1, Guide for Conducting Risk Assessments
    
-### ISO/IEC 27005
+### ISO-IEC 27005
 Provides guidelines for information security risk management in an organization but does not dictate a specific approach for implementing it.
 
 ### OCTAVE
@@ -46,7 +46,7 @@ Proprietary framework for understanding, analyzing, and measuring information ri
 **********************************************************************   
 ## Security Programs
 
-### ISO/IEC 27000 Series
+### ISO-IEC 27000 Series
 Industry best practices for the management of security controls in a holistic manner.
 * **ISO/IEC 27000** Overview and vocabulary
 * **ISO/IEC 27001** ISMS requirements
