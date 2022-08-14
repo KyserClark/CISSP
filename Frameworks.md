@@ -9,8 +9,18 @@
    * [ISO/IEC 27000 Series](#iso/iec-27000-series)
    * [NIST Cybersecurity Framework](#nist-cybersecurity-framework)
 * [Security Controls](#security-controls)
+   * [NIST SP 800-53](#nist-sp-800-53)
+   * [CIS Contols](#cis-controls)
+   * [COBIT 2019](#cobit-2019)
 * [Enterprise Architecture](#enterprise-architecture)
+   * [Zachman Framework](#zachman-framework)
+   * [TOGAF](#togaf)
+   * [DoDAF](#dodaf)
+   * [SABSA](#sabsa)
 * [Other](#other)
+   * [ITIL](#itil)
+   * [Six Sigma](#six-sigma)
+   * [Capability Maturity Model (CMM)](#capability-maturity-model-(cmm))
 
 **********************************************************************   
 ## Risk
@@ -78,8 +88,8 @@ Voluntary
 **********************************************************************   
 ## Other
 
-### Information Technology Infrastructure Library (ITIL)
-Standard for IT service management to meet business needs.
+### ITIL
+Information Technology Infrastructure Library (ITIL); Standard for IT service management to meet business needs.
  
 ### Six Sigma
 Improve process quality by using statistical methods of measuring operation efficiency and reducing variation, defects, and waste.  
