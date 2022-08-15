@@ -86,7 +86,7 @@ Security and Privacy Controls for Information Systems and Organizations; Made fo
 * 4. Apply the controls
 
 ### CIS Controls
-Center for Internet Security (CIS); alist of 20 critical security controls designed to mitigate the threat of the majority of common cyberattacks.
+Center for Internet Security (CIS); a list of 20 critical security controls designed to mitigate the threat of the majority of common cyberattacks.
 
 ### COBIT 2019
 Control Objectives for Information Technologies (COBIT); helps organizations optimize the value of their IT by tying stakeholder drivers and needs to organizational and IT goals.
