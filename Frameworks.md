@@ -41,7 +41,7 @@ Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE); Ris
 * Analize and classify individual risks as high, medium, or low and develop mitigations
 
 ### FAIR
-Factor Analysis of Information Risk (FAIR); Proprietary framework for understanding, analyzing, and measuring information risk; the only standard quantitative approach to managing risk.
+Factor Analysis of Information Risk (FAIR); Proprietary framework for understanding, analyzing, and measuring information risk. The only standard quantitative approach to managing risk.
 
 **********************************************************************   
 ## Security Programs
