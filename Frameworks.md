@@ -41,7 +41,7 @@ Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE); Ris
 * Analize and classify individual risks as high, medium, or low and develop mitigations
 
 ### FAIR
-Proprietary framework for understanding, analyzing, and measuring information risk; the only standard quantitative approach to managing risk.
+Factor Analysis of Information Risk (FAIR); Proprietary framework for understanding, analyzing, and measuring information risk; the only standard quantitative approach to managing risk.
 
 **********************************************************************   
 ## Security Programs
@@ -89,7 +89,7 @@ Security and Privacy Controls for Information Systems and Organizations; Made fo
 Center for Internet Security (CIS); alist of 20 critical security controls designed to mitigate the threat of the majority of common cyberattacks.
 
 ### COBIT 2019
-Control Objectives for Information Technologies (COBIT); helps organizations optimize the value of their IT by balancing resource utilization, risk levels, and realization of benefits. This is all done by explicitly tying stakeholder drivers to stakeholder needs to organizational goals (to meet those needs) to IT goals (to meet or support the organizational goals).
+Control Objectives for Information Technologies (COBIT); helps organizations optimize the value of their IT by tying stakeholder drivers and needs to organizational and IT goals.
 
 **********************************************************************
 ## Enterprise Architecture
@@ -108,9 +108,8 @@ The Open Group Architecture Framework (TOGAF); provides an approach to design, i
 Department of Defense Architecture Framework (DoDAF); an architecture that has to span many different complex government agencies to allow for interoperability and proper hierarchical communication channels.
 
 ### SABSA
-Sherwood Applied Business Security Architecture (SABSA); a layered framework, with its first layer describing the business context within which the security architecture must exist. Each layer of the framework decreases in abstraction and increases in detail, so it builds upon the others and moves from policy to practical implementation of technology and solutions. The idea is to provide a chain of traceability through the contextual, conceptual, logical, physical, component, and operational levels.
+Sherwood Applied Business Security Architecture (SABSA); a layered framework that provides a chain of traceability through the contextual, conceptual, logical, physical, component, and operational levels.
 
-   
 **********************************************************************   
 ## Other
 
