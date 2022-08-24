@@ -8,7 +8,7 @@
 
 * B3: Security labels, verification of no covert channels, and must stay secure during startup (MAC)
 
-* C1: Weak protection mechanisms (DAC
+* C1: Weak protection mechanisms (DAC)
 
 * C2: Strict login procedures (DAC)
 
