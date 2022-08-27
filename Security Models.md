@@ -32,15 +32,15 @@
 * States that a subject can write to an object if, and only if, the subject cannot read another object that is in a different dataset.
 
 ## Graham-Denning Model
-### Defines a set of basic rights in terms of commands that a specific subject can execute on an object
-How to securely create an object
-*	 How to securely create a subject
-*	 How to securely delete an object
-*	 How to securely delete a subject
-*	 How to securely provide the read access right
-*	 How to securely provide the grant access right
-*	 How to securely provide the delete access right
-*	 How to securely provide transfer access rights
+### Defines a set of basic rights in terms of commands that a specific subject can execute on an object 
+* How to securely create an object
+*	How to securely create a subject
+*	How to securely delete an object
+*	How to securely delete a subject
+*	How to securely provide the read access right
+*	How to securely provide the grant access right
+*	How to securely provide the delete access right
+*	How to securely provide transfer access rights
 
 ## Harrison-Ruzzo-Ullman Model
 * Deals with access rights of subjects and the integrity of those rights
