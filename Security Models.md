@@ -2,7 +2,7 @@
 
 *Remember*
 Simple = Reading
-* or star = Writing
+star or * = Writing
 
 ## Bell-LaPadula Model
 ###Enforces Confidentiality
