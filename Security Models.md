@@ -1,11 +1,11 @@
 # Security Models
 
 *Remember*
-Simple = Reading
-star or * = Writing
+* Simple = Reading
+* star or * = Writing
 
 ## Bell-LaPadula Model
-###Enforces Confidentiality
+### Enforces Confidentiality
 * Simple security rule
 * *-property (star property) rule
 * Strong star property rule
