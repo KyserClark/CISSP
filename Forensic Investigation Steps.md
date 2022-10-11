@@ -5,7 +5,7 @@
 3. Collection
 4. Examination
 5. Analysis
-6. Presentationi
+6. Presentation
 7. Decision
 
 ## Reference
