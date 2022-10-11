@@ -4,7 +4,7 @@
 
 * B1: Security labels (MAC)
 
-* B2: Security labels and verification of no covert channels (MAC
+* B2: Security labels and verification of no covert channels (MAC)
 
 * B3: Security labels, verification of no covert channels, and must stay secure during startup (MAC)
 
