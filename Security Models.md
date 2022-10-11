@@ -7,9 +7,9 @@
 ## Bell-LaPadula Model
 ### Enforces Confidentiality
 * Simple security rule 
-   * no read up
+   * no write up
 * *-property (star property) rule 
-   * no write down
+   * no read down
 * Strong star property rule
 
 ## Biba Model
