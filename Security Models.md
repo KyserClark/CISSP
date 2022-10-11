@@ -7,17 +7,17 @@
 ## Bell-LaPadula Model
 ### Enforces Confidentiality
 * Simple security rule 
-   * no write up
+   * no read up
 * *-property (star property) rule 
-   * no read down
+   * no write down
 * Strong star property rule
 
 ## Biba Model
 ### Enforces Integrity
 * *-integrity axiom 
-   * no read down
-* Simple integrity axiom 
    * no write up
+* Simple integrity axiom 
+   * no read down
 * Invocation property
 
 ## Clark-Wilson Model
